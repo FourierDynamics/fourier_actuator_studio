@@ -1,4 +1,4 @@
-# fourier-actuator-studio
+# fourier_actuator_studio
 
 ## Project run
 
